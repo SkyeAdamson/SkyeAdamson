@@ -1,17 +1,7 @@
 # Hey, I'm Skye Adamson! 👋
 I'm Skye, a University of York student finishing up my final year of my Computer Science & Maths MMath degree. I began my programming journey back in 2013, following along to Minecraft modding tutorials; since then, my goal has evolved into becoming a fullstack developer. 
 
-Right now I'm focusing on my dissertation project and in my free time, on learning Django. 
-
-## Education
-🏫 **University of York** (2018 - Present)  
-Computer Science & Mathematics MMath (Joint Honours)  
-
-👑 **Queen Elizabeth Sixth Form** (2016 - 2018)  
-Completed 3 A-Levels; Maths (A*), Further Maths (B), Computer Science (B)  
-
-🌳 **Greenfield Community College** (2011 - 2016)  
-Received 10 A* - C GCSES, with an A* in both Maths and Further Maths and an A in English Language  
+Right now I'm focusing on my dissertation project and in my free time I've been learning Django. 
 
 ## Skills & Experience
 ### Languages
@@ -22,6 +12,10 @@ Received 10 A* - C GCSES, with an A* in both Maths and Further Maths and an A in
 ### APIs, Packages & Tools
 - ⛓ Django (Currently learning)
 - 💻 HTML, CSS, JavaScript (Currently learning)
+
+## 2021 Goals
+- 🕸 Build my first Django website without following a tutorial series
+- :es: Continue learning Spanish on Duolingo
 
 <!---
 SkyeAdamson/SkyeAdamson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
