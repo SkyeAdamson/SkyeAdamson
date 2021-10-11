@@ -3,11 +3,13 @@ I'm Skye, a University of York student finishing up my final year of my Computer
 
 ## Education
 🏫 **University of York** (2018 - Present)  
-Computer Science & Mathematics MMath (Joint Honours)
+Computer Science & Mathematics MMath (Joint Honours)  
+
 👑 **Queen Elizabeth Sixth Form** (2016 - 2018)  
-Completed 3 A-Levels; Maths (A*), Further Maths (B), Computer Science (B)
+Completed 3 A-Levels; Maths (A*), Further Maths (B), Computer Science (B)  
+
 🌳 **Greenfield Community College** (2011 - 2016)  
-Received 10 A* - C GCSES, with an A* in both Maths and Further Maths and an A in English Language 
+Received 10 A* - C GCSES, with an A* in both Maths and Further Maths and an A in English Language  
 
 ## Skills & Experience
 ### Languages
