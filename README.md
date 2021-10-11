@@ -1,6 +1,8 @@
 # Hey, I'm Skye Adamson! 👋
 I'm Skye, a University of York student finishing up my final year of my Computer Science & Maths MMath degree. I began my programming journey back in 2013, following along to Minecraft modding tutorials; since then, my goal has evolved into becoming a fullstack developer. 
 
+Right now I'm focusing on my dissertation project and in my free time, on learning Django. 
+
 ## Education
 🏫 **University of York** (2018 - Present)  
 Computer Science & Mathematics MMath (Joint Honours)  
