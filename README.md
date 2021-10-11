@@ -15,7 +15,7 @@ Right now I'm focusing on my dissertation project and in my free time I've been 
 
 ## 2021 Goals
 - 🕸 Build my first Django website without following a tutorial series
-- :es: Continue learning Spanish on Duolingo
+- 💬 Continue learning Spanish on Duolingo
 
 <!---
 SkyeAdamson/SkyeAdamson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
