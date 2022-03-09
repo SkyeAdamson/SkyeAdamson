@@ -1,7 +1,7 @@
 # Hey, I'm Skye Adamson! 👋
-I'm Skye, a University of York student finishing up my final year of my Computer Science & Maths MMath degree. I began my programming journey back in 2013, following along to Minecraft modding tutorials; since then, my goal has evolved into becoming a fullstack web and mobile developer. 
+I'm Skye, a University of York student finishing up my final year of my Computer Science & Maths MMath degree. I began my programming journey back in 2013, following along to Minecraft modding tutorials; since then, my goal has evolved into becoming a well-rounded software developer!
 
-Right now I'm focusing on my dissertation project and in my free time I've been learning Django. 
+Right now I'm focusing on my final year master's project (A comparison of local metaheuristic search algorithms based on animal hunting to solve timetabling constraint satisfaction problems) as well as web game automation with Selenium and implementing an OOP language in Python.
 
 ## Skills & Experience
 ### Languages
@@ -13,7 +13,7 @@ Right now I'm focusing on my dissertation project and in my free time I've been 
 - ⛓ Django (Currently learning)
 - 💻 HTML, CSS, JavaScript (Currently learning)
 
-## 2021 Goals
+## 2022 Goals
 - 🕸 Build my first Django website without following a tutorial series
 - 💬 Continue learning Spanish on Duolingo
 
