@@ -5,17 +5,17 @@ Right now I'm focusing on my final year master's project (A comparison of local 
 
 ## Skills & Experience
 ### Languages
-- 🐍 Python (3 years & my language of choice)
+- 🐍 Python (4 years & my language of choice)
 - ☕ Java (2018 - 2019)
 - 📝 C# (2016 - 2018)
 
 ### APIs, Packages & Tools
-- ⛓ Django (Currently learning)
-- 💻 HTML, CSS, JavaScript (Currently learning)
+- ⌛ Selenium
+- 🐳 Docker (Currently learning)
 
 ## 2022 Goals
-- 🕸 Build my first Django website without following a tutorial series
-- 💬 Continue learning Spanish on Duolingo
+- Creating and deploying a small Docker project to AWS
+- Working on code readability and better coding practices
 
 <!---
 SkyeAdamson/SkyeAdamson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
